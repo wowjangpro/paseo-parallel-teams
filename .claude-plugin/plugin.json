@@ -1,0 +1,10 @@
+{
+  "name": "paseo-parallel-teams",
+  "version": "0.1.0",
+  "description": "Paseo 에서 병렬 작업을 창구 → 트랙 워커 → 워커 안 agent team 의 3계층으로 운영하는 절차 스킬 (시험 운영 전 · 미검증)",
+  "author": {
+    "name": "wowjangpro"
+  },
+  "repository": "https://github.com/wowjangpro/paseo-parallel-teams",
+  "keywords": ["parallel", "agent-team", "paseo", "orchestration"]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "paseo-parallel-teams",
+  "description": "Paseo 병렬 팀 운영 스킬 플러그인 (시험 운영 전 · 미검증)",
+  "owner": {
+    "name": "wowjangpro"
+  },
+  "plugins": [
+    {
+      "name": "paseo-parallel-teams",
+      "source": "./",
+      "description": "Paseo 에서 병렬 작업을 창구 → 트랙 워커 → 워커 안 agent team 의 3계층으로 운영하는 절차 스킬 (시험 운영 전 · 미검증)"
+    }
+  ]
+}
